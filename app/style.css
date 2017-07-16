@@ -1,7 +1,18 @@
+body{
+    font-size: 16px;
+    
+}
+
+
 .wrapper{
    margin: 0 auto;
    width: 1000px;
    background-color: greenyellow;
    color: #000;
    padding: 10px;
+}
+
+h1{
+    margin-bottom: 25px;
+    text-transform: uppercase;
 }
