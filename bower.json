@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "description": "mttest",
+  "main": "index.js",
+  "authors": [
+    "madrom007"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/madrom007/gitloft",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
